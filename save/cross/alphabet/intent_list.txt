@@ -1,0 +1,5 @@
+Request	65
+General	28
+Inform	3
+NoOffer	3
+Select	1

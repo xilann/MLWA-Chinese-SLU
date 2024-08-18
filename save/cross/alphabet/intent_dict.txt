@@ -1,0 +1,5 @@
+Request	0
+General	1
+Inform	2
+NoOffer	3
+Select	4

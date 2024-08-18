@@ -529,15 +529,21 @@ class DatasetManager(object):
 
         char_text, word_text, align_info, slot = [], [], [], []
         pre_tag, word = "S", ""
+        word_len=0
 
         with open(file_path, 'r') as fr:
             for line in fr.readlines():
                 items = line.strip().split()
-
+                print(items)
                 if len(items) == 1:
                     if len(word) != 0:
                         word_text.append(word)
-                        align_info.append(len(word))
+                        word_len+=1
+                        align_info.append(word_len)
+                        word_len=0
+                        # align_info.append(len(word))
+                    print(char_text)
+                    print(align_info)
                     assert len(char_text) == sum(align_info)
                     char_texts.append(char_text)
                     word_texts.append(word_text)
@@ -548,6 +554,7 @@ class DatasetManager(object):
                     # clear buffer lists.
                     char_text, word_text, align_info, slot = [], [], [], []
                     pre_tag, word = "S", ""
+                    word_len = 0
 
                 elif len(items) >= 2:
                     char, slot_tag = items[0].strip(), items[1].strip()
@@ -562,10 +569,14 @@ class DatasetManager(object):
                         if endOfChunk(pre_tag, tag):
                             if len(word) != 0:
                                 word_text.append(word)
-                                align_info.append(len(word))
+                                word_len+=1
+                                align_info.append(word_len)
+                                word_len=0
+                                # align_info.append(len(word)) # change
                             word = char
                         else:
                             word += char
+                            word_len += 1
                         pre_tag = tag
 
         return char_texts, word_texts, align_infos, slots, intents

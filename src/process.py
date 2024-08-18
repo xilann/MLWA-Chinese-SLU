@@ -194,11 +194,11 @@ class Processor(object):
         """
         pred_slot, real_slot, pred_intent, real_intent = Processor.prediction(model, dataset, "test", batch_size)
 
-        slot_f1 = computeF1Score(pred_slot, real_slot)[0]
+        slot_f1, slot_precision, slot_recall = computeF1Score(pred_slot, real_slot)[0]
         intent_acc = Evaluator.accuracy(pred_intent, real_intent)
         sent_acc = Evaluator.semantic_acc(pred_slot, real_slot, pred_intent, real_intent)
 
-        return slot_f1, intent_acc, sent_acc
+        return slot_f1,slot_precision, slot_recall , intent_acc, sent_acc
 
     @staticmethod
     def prediction(model, dataset, mode, batch_size):

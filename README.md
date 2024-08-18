@@ -29,7 +29,9 @@ The script **train.py** acts as a main function to the project, you can run the 
     CUDA_VISIBLE_DEVICES=$1 python train.py -dd ${dataDir} -sd ${saveDir} -u -bs 16 -dr 0.3 \ 
         -ced 128 -wed 128 -ehd 512 -aod 128 -sed 32 -sdhd 64
 ```
-
+```shell
+python train_cross.py
+```
 ### Ablation Study
 
 For reproducing the results reported in our paper, we suggest you executing the following shell command:

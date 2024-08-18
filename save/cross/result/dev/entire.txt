@@ -1,0 +1,1374 @@
+你	O	O
+好	O	O
+，	O	O
+我	O	O
+想	O	O
+找	O	O
+家	O	O
+人	O	O
+均	O	O
+消	O	O
+费	O	O
+在	O	O
+100	B-Inform.餐馆.人均消费	O
+-	I-Inform.餐馆.人均消费	I-Inform.餐馆.人均消费
+150	I-Inform.餐馆.人均消费	I-Inform.餐馆.人均消费
+元	I-Inform.餐馆.人均消费	I-Inform.餐馆.人均消费
+的	O	O
+餐	O	O
+馆	O	O
+吃	O	O
+驴	B-Inform.餐馆.推荐菜	O
+杂	I-Inform.餐馆.推荐菜	I-Inform.餐馆.推荐菜
+汤	I-Inform.餐馆.推荐菜	I-Inform.餐馆.推荐菜
+这	O	O
+道	O	O
+菜	O	O
+，	O	O
+请	O	O
+给	O	O
+我	O	O
+推	O	O
+荐	O	O
+一	O	O
+家	O	O
+餐	O	O
+馆	O	O
+用	O	O
+餐	O	O
+吧	O	O
+。	O	O
+你好 ， 我想 找家 人均 消费 在 100-150 元 的餐馆 吃 驴 杂汤 这 道 菜， 请 给我 推 荐 一 家 餐馆 用餐 吧。
+Request	Request
+
+抱	O	O
+歉	O	O
+，	O	O
+消	O	O
+费	O	O
+价	O	O
+格	O	O
+没	O	O
+有	O	O
+符	O	O
+合	O	O
+您	O	O
+要	O	O
+求	O	O
+的	O	O
+，	O	O
+推	O	O
+荐	O	O
+您	O	O
+去	O	O
+人	O	O
+均	O	O
+消	O	O
+费	O	O
+68	B-Inform.餐馆.人均消费	O
+元	I-Inform.餐馆.人均消费	O
+的	O	O
+讲	B-Inform.餐馆.名称	O
+礼	I-Inform.餐馆.名称	I-Inform.景点.名称
+驴	I-Inform.餐馆.名称	I-Inform.景点.名称
+肉	I-Inform.餐馆.名称	I-Inform.餐馆.名称
+馆	I-Inform.餐馆.名称	I-Inform.餐馆.名称
+用	O	O
+餐	O	O
+。	O	O
+抱歉 ， 消费 价格 没有 符合 您 要求 的 ， 推荐 您 去 人均 消费 68元 的 讲 礼驴 肉馆 用 餐。
+NoOffer	NoOffer
+
+这	O	O
+家	O	O
+餐	O	O
+馆	O	O
+的	O	O
+周	O	O
+边	O	O
+有	O	O
+哪	O	O
+些	O	O
+景	O	O
+点	O	O
+啊	O	O
+？	O	O
+这家 餐馆 的 周边 有 哪些 景点 啊 ？
+Request	Request
+
+餐	O	O
+馆	O	O
+的	O	O
+地	O	O
+址	O	O
+是	O	O
+在	O	O
+哪	O	O
+啊	O	O
+？	O	O
+餐馆 的 地址 是 在 哪 啊 ？
+Request	Request
+
+好	O	O
+的	O	O
+，	O	O
+吃	O	O
+完	O	O
+饭	O	O
+我	O	O
+想	O	O
+找	O	O
+一	O	O
+个	O	O
+评	O	O
+分	O	O
+4	B-Inform.景点.评分	O
+.	I-Inform.景点.评分	I-Inform.景点.评分
+5	I-Inform.景点.评分	I-Inform.景点.评分
+分	I-Inform.景点.评分	I-Inform.景点.评分
+以	I-Inform.景点.评分	I-Inform.景点.评分
+上	I-Inform.景点.评分	I-Inform.景点.评分
+的	O	O
+，	O	O
+可	O	O
+以	O	O
+游	O	O
+玩	O	O
+时	O	O
+间	O	O
+3	B-Inform.景点.游玩时间	O
+小	I-Inform.景点.游玩时间	O
+时	I-Inform.景点.游玩时间	O
+-	I-Inform.景点.游玩时间	O
+4	I-Inform.景点.游玩时间	O
+小	I-Inform.景点.游玩时间	O
+时	I-Inform.景点.游玩时间	O
+的	O	O
+景	O	O
+点	O	O
+游	O	O
+玩	O	O
+，	O	O
+给	O	O
+我	O	O
+推	O	O
+荐	O	O
+一	O	O
+个	O	O
+吧	O	O
+。	O	O
+好 的 ， 吃完饭 我 想 找 一个 评分 4.5 分 以上 的 ， 可以 游玩 时间 3 小时 - 4 小时 的 景点 游玩 ， 给 我 推荐 一个 吧 。
+Request	Request
+
+这	O	O
+个	O	O
+景	O	O
+点	O	O
+的	O	O
+地	O	O
+址	O	O
+在	O	O
+哪	O	O
+啊	O	O
+？	O	O
+这个 景点 的 地址 在 哪 啊 ？
+Request	Request
+
+景	O	O
+点	O	O
+的	O	O
+周	O	O
+边	O	O
+还	O	O
+有	O	O
+哪	O	O
+些	O	O
+别	O	O
+的	O	O
+景	O	O
+点	O	O
+啊	O	O
+？	O	O
+景点 的 周边 还有 哪些 别的 景点 啊 ？
+Request	Request
+
+请	O	O
+在	O	O
+八	B-Inform.景点.名称	O
+达	I-Inform.景点.名称	O
+岭	I-Inform.景点.名称	O
+长	I-Inform.景点.名称	O
+城	I-Inform.景点.名称	O
+周	O	O
+边	O	O
+的	O	O
+景	O	O
+点	O	O
+给	O	O
+我	O	O
+推	O	O
+荐	O	O
+一	O	O
+个	O	O
+评	O	O
+分	O	O
+4	B-Inform.景点.评分	O
+.	I-Inform.景点.评分	I-Inform.景点.评分
+5	I-Inform.景点.评分	I-Inform.景点.评分
+分	I-Inform.景点.评分	I-Inform.景点.评分
+以	I-Inform.景点.评分	I-Inform.景点.评分
+上	I-Inform.景点.评分	I-Inform.景点.评分
+门	O	O
+票	O	O
+免	B-Inform.景点.门票	O
+费	I-Inform.景点.门票	I-Inform.景点.门票
+的	O	O
+景	O	O
+点	O	O
+游	O	O
+玩	O	O
+，	O	O
+谢	O	O
+谢	O	O
+了	O	O
+。	O	O
+请 在 八达岭长城 周边 的 景点 给 我 推荐 一个 评分 4.5 分 以上 门票 免费 的 景点 游玩 ， 谢谢 了 。
+Select	Request
+
+这	O	O
+个	O	O
+景	O	O
+点	O	O
+的	O	O
+周	O	O
+边	O	O
+有	O	O
+哪	O	O
+些	O	O
+餐	O	O
+馆	O	O
+啊	O	O
+？	O	O
+这个 景点 的 周边 有 哪些 餐馆 啊 ？
+Request	Request
+
+游	O	O
+玩	O	O
+结	O	O
+束	O	O
+后	O	O
+我	O	O
+想	O	O
+找	O	O
+一	O	O
+家	O	O
+价	O	O
+格	O	O
+在	O	O
+400	B-Inform.酒店.价格	O
+-	I-Inform.酒店.价格	O
+500	I-Inform.酒店.价格	O
+元	I-Inform.酒店.价格	O
+的	O	O
+，	O	O
+有	O	O
+所	O	O
+有	O	O
+房	O	O
+间	O	O
+提	O	O
+供	O	O
+wifi	O	O
+何	O	O
+早	O	O
+餐	O	O
+服	O	O
+务	O	O
+的	O	O
+酒	O	O
+店	O	O
+住	O	O
+宿	O	O
+，	O	O
+给	O	O
+推	O	O
+荐	O	O
+一	O	O
+家	O	O
+吧	O	O
+。	O	O
+游玩 结束 后 我 想 找 一家 价格 在 400-500 元 的，有 所 有 房 间 提供 wifi何 早餐 服务的酒 店 住宿 ，给 推 荐一 家吧 。
+Inform	Inform
+
+这	O	O
+家	O	O
+酒	O	O
+店	O	O
+是	O	O
+什	O	O
+么	O	O
+类	O	O
+型	O	O
+啊	O	O
+？	O	O
+这家 酒店 是 什么 类型 啊 ？
+Request	Request
+
+酒	O	O
+店	O	O
+的	O	O
+周	O	O
+边	O	O
+有	O	O
+哪	O	O
+些	O	O
+餐	O	O
+馆	O	O
+啊	O	O
+？	O	O
+酒店 的 周边 有 哪些 餐馆 啊 ？
+Request	Request
+
+好	O	O
+的	O	O
+，	O	O
+谢	O	O
+谢	O	O
+你	O	O
+了	O	O
+啊	O	O
+。	O	O
+好 的 ， 谢谢 你 了 啊 。
+General	General
+
+不	O	O
+客	O	O
+气	O	O
+。	O	O
+不 客气 。
+General	General
+
+你	O	O
+好	O	O
+，	O	O
+可	O	O
+以	O	O
+帮	O	O
+我	O	O
+推	O	O
+荐	O	O
+一	O	O
+个	O	O
+评	O	O
+分	O	O
+是	O	O
+4	B-Inform.酒店.评分	O
+.	I-Inform.酒店.评分	O
+5	I-Inform.酒店.评分	I-Inform.酒店.评分
+分	I-Inform.酒店.评分	I-Inform.酒店.评分
+以	I-Inform.酒店.评分	I-Inform.酒店.评分
+上	I-Inform.酒店.评分	I-Inform.酒店.评分
+的	O	O
+舒	B-Inform.酒店.酒店类型	O
+适	I-Inform.酒店.酒店类型	O
+型	I-Inform.酒店.酒店类型	O
+酒	O	O
+店	O	O
+吗	O	O
+，	O	O
+我	O	O
+打	O	O
+算	O	O
+先	O	O
+住	O	O
+下	O	O
+。	O	O
+你好 ， 可以 帮 我 推荐 一个 评分 是 4.5 分 以上 的 舒适型 酒店 吗 ， 我 打算 先住 下 。
+Request	Request
+
+好	O	O
+的	O	O
+，	O	O
+这	O	O
+家	O	O
+酒	O	O
+店	O	O
+的	O	O
+电	O	O
+话	O	O
+是	O	O
+多	O	O
+少	O	O
+？	O	O
+好 的 ， 这家 酒店 的 电话 是 多少 ？
+Request	Request
+
+记	O	O
+下	O	O
+了	O	O
+，	O	O
+你	O	O
+有	O	O
+它	O	O
+家	O	O
+的	O	O
+地	O	O
+址	O	O
+吗	O	O
+，	O	O
+发	O	O
+给	O	O
+我	O	O
+一	O	O
+下	O	O
+。	O	O
+记下 了 ， 你 有 它 家 的 地址 吗 ， 发给 我 一下 。
+Request	Request
+
+谢	O	O
+了	O	O
+，	O	O
+住	O	O
+下	O	O
+之	O	O
+后	O	O
+我	O	O
+要	O	O
+出	O	O
+去	O	O
+吃	O	O
+点	O	O
+东	O	O
+西	O	O
+，	O	O
+哪	O	O
+里	O	O
+有	O	O
+人	O	O
+均	O	O
+消	O	O
+费	O	O
+150	B-Inform.餐馆.人均消费	O
+-	I-Inform.餐馆.人均消费	I-Inform.餐馆.人均消费
+500	I-Inform.餐馆.人均消费	I-Inform.餐馆.人均消费
+元	I-Inform.餐馆.人均消费	I-Inform.餐馆.人均消费
+，	O	O
+评	O	O
+分	O	O
+4	B-Inform.餐馆.评分	O
+分	I-Inform.餐馆.评分	I-Inform.景点.评分
+以	I-Inform.餐馆.评分	I-Inform.景点.评分
+上	I-Inform.餐馆.评分	I-Inform.景点.评分
+，	O	O
+能	O	O
+吃	O	O
+到	O	O
+炸	B-Inform.餐馆.推荐菜	O
+窝	I-Inform.餐馆.推荐菜	O
+头	I-Inform.餐馆.推荐菜	O
+的	O	O
+餐	O	O
+馆	O	O
+，	O	O
+给	O	O
+推	O	O
+荐	O	O
+谢 了 ， 住 下 之后 我要 出去 吃点 东西 ， 哪里 有 人均 消费 150-500 元 ，评分 4 分 以上 ， 能 吃到 炸 窝 头 的 餐馆 ， 给 推荐
+Request	Request
+
+那	O	O
+好	O	O
+吧	O	O
+，	O	O
+也	O	O
+只	O	O
+能	O	O
+这	O	O
+样	O	O
+了	O	O
+，	O	O
+你	O	O
+能	O	O
+告	O	O
+诉	O	O
+我	O	O
+一	O	O
+下	O	O
+它	O	O
+家	O	O
+的	O	O
+地	O	O
+址	O	O
+吗	O	O
+？	O	O
+那好 吧 ， 也 只能 这样 了 ， 你 能 告诉 我 一下 它家 的 地址 吗 ？
+Request	Request
+
+好	O	O
+的	O	O
+，	O	O
+那	O	O
+餐	O	O
+馆	O	O
+周	O	O
+边	O	O
+有	O	O
+酒	O	O
+店	O	O
+吗	O	O
+？	O	O
+好 的 ， 那 餐馆 周边 有 酒店 吗 ？
+Request	Request
+
+太	O	O
+好	O	O
+了	O	O
+，	O	O
+十	O	O
+分	O	O
+感	O	O
+谢	O	O
+！	O	O
+太好了 ， 十分 感谢 ！
+General	General
+
+你	O	O
+太	O	O
+客	O	O
+气	O	O
+了	O	O
+！	O	O
+你 太 客气 了 ！
+General	General
+
+你	O	O
+好	O	O
+，	O	O
+我	O	O
+想	O	O
+带	O	O
+女	O	O
+朋	O	O
+友	O	O
+找	O	O
+一	O	O
+个	O	O
+评	O	O
+分	O	O
+4	B-Inform.景点.评分	O
+.	I-Inform.景点.评分	I-Inform.景点.评分
+5	I-Inform.景点.评分	I-Inform.景点.评分
+分	I-Inform.景点.评分	I-Inform.景点.评分
+以	I-Inform.景点.评分	I-Inform.景点.评分
+上	I-Inform.景点.评分	I-Inform.景点.评分
+可	O	O
+以	O	O
+游	O	O
+玩	O	O
+时	O	O
+间	O	O
+3	B-Inform.景点.游玩时间	O
+天	I-Inform.景点.游玩时间	O
+的	O	O
+景	O	O
+点	O	O
+游	O	O
+玩	O	O
+，	O	O
+给	O	O
+我	O	O
+推	O	O
+荐	O	O
+一	O	O
+个	O	O
+吧	O	O
+。	O	O
+你好 ， 我 想 带 女朋友 找 一个 评分 4.5 分 以上 可以 游玩 时间 3 天 的 景点 游玩 ， 给 我 推荐 一个 吧 。
+Request	Request
+
+这	O	O
+个	O	O
+景	O	O
+点	O	O
+的	O	O
+地	O	O
+址	O	O
+是	O	O
+在	O	O
+哪	O	O
+啊	O	O
+？	O	O
+这个 景点 的 地址 是 在 哪 啊 ？
+Request	Request
+
+景	O	O
+点	O	O
+的	O	O
+电	O	O
+话	O	O
+是	O	O
+多	O	O
+少	O	O
+啊	O	O
+？	O	O
+景点 的 电话 是 多少 啊 ？
+Request	Request
+
+游	O	O
+玩	O	O
+结	O	O
+束	O	O
+后	O	O
+我	O	O
+想	O	O
+找	O	O
+一	O	O
+个	O	O
+评	O	O
+分	O	O
+4	B-Inform.餐馆.评分	O
+.	I-Inform.餐馆.评分	O
+5	I-Inform.餐馆.评分	I-Inform.景点.评分
+分	I-Inform.餐馆.评分	I-Inform.景点.评分
+以	I-Inform.餐馆.评分	I-Inform.景点.评分
+上	I-Inform.餐馆.评分	I-Inform.景点.评分
+的	O	O
+餐	O	O
+馆	O	O
+吃	O	O
+饭	O	O
+，	O	O
+给	O	O
+我	O	O
+推	O	O
+荐	O	O
+一	O	O
+家	O	O
+吧	O	O
+。	O	O
+游玩 结束 后 我 想 找 一个 评分 4.5 分 以上 的 餐馆 吃饭 ， 给 我 推荐 一家 吧 。
+Request	Request
+
+这	O	O
+家	O	O
+餐	O	O
+馆	O	O
+有	O	O
+什	O	O
+么	O	O
+好	O	O
+吃	O	O
+的	O	O
+推	O	O
+荐	O	O
+菜	O	O
+啊	O	O
+？	O	O
+这家 餐馆 有 什么 好吃 的 推荐 菜 啊 ？
+Request	Request
+
+吃	O	O
+完	O	O
+饭	O	O
+我	O	O
+想	O	O
+找	O	O
+一	O	O
+家	O	O
+最	O	O
+低	O	O
+价	O	O
+格	O	O
+在	O	O
+200	B-Inform.酒店.价格	O
+-	I-Inform.酒店.价格	O
+300	I-Inform.酒店.价格	O
+元	I-Inform.酒店.价格	O
+的	O	O
+酒	O	O
+店	O	O
+住	O	O
+宿	O	O
+，	O	O
+给	O	O
+推	O	O
+荐	O	O
+一	O	O
+家	O	O
+吧	O	O
+。	O	O
+吃完饭 我 想 找 一家 最低 价格 在 200-300 元 的酒店 住 宿 ，给 推荐 一 家 吧。
+Request	Inform
+
+这	O	O
+家	O	O
+酒	O	O
+店	O	O
+是	O	O
+什	O	O
+么	O	O
+类	O	O
+型	O	O
+，	O	O
+电	O	O
+话	O	O
+多	O	O
+少	O	O
+啊	O	O
+？	O	O
+这家 酒店 是 什么 类型 ， 电话 多少 啊 ？
+Request	Request
+
+好	O	O
+的	O	O
+，	O	O
+谢	O	O
+谢	O	O
+你	O	O
+了	O	O
+啊	O	O
+。	O	O
+好 的 ， 谢谢 你 了 啊 。
+General	General
+
+不	O	O
+客	O	O
+气	O	O
+。	O	O
+不 客气 。
+General	General
+
+您	O	O
+好	O	O
+，	O	O
+周	O	O
+末	O	O
+我	O	O
+想	O	O
+和	O	O
+家	O	O
+人	O	O
+一	O	O
+起	O	O
+玩	O	O
+，	O	O
+请	O	O
+帮	O	O
+我	O	O
+推	O	O
+荐	O	O
+一	O	O
+个	O	O
+票	O	O
+价	O	O
+是	O	O
+免	B-Inform.景点.门票	O
+费	I-Inform.景点.门票	O
+的	O	O
+、	O	O
+评	O	O
+分	O	O
+是	O	O
+4	B-Inform.景点.评分	O
+.	I-Inform.景点.评分	I-Inform.景点.评分
+5	I-Inform.景点.评分	I-Inform.景点.评分
+分	I-Inform.景点.评分	I-Inform.景点.评分
+以	I-Inform.景点.评分	I-Inform.景点.评分
+上	I-Inform.景点.评分	I-Inform.景点.评分
+的	O	O
+景	O	O
+点	O	O
+。	O	O
+您好 ， 周末 我 想 和 家人 一起 玩 ， 请 帮 我 推荐 一个 票价 是 免费 的 、 评分 是 4.5 分 以上 的 景点 。
+Request	Request
+
+就	O	O
+去	O	O
+天	B-Inform.景点.名称	I-Inform.景点.名称
+安	I-Inform.景点.名称	I-Inform.景点.名称
+门	I-Inform.景点.名称	I-Inform.景点.名称
+广	I-Inform.景点.名称	I-Inform.景点.名称
+场	I-Inform.景点.名称	I-Inform.景点.名称
+吧	O	O
+，	O	O
+地	O	O
+址	O	O
+在	O	O
+哪	O	O
+？	O	O
+周	O	O
+边	O	O
+有	O	O
+什	O	O
+么	O	O
+酒	O	O
+店	O	O
+吗	O	O
+？	O	O
+就 去 天安门广场 吧 ， 地址 在 哪 ？ 周边 有 什么 酒店 吗 ？
+Request	Request
+
+好	O	O
+的	O	O
+。	O	O
+天	B-Inform.景点.名称	O
+安	I-Inform.景点.名称	O
+门	I-Inform.景点.名称	O
+广	I-Inform.景点.名称	O
+场	I-Inform.景点.名称	O
+周	O	O
+边	O	O
+的	O	O
+酒	O	O
+店	O	O
+里	O	O
+，	O	O
+我	O	O
+想	O	O
+找	O	O
+一	O	O
+家	O	O
+提	O	O
+供	O	O
+中	O	O
+式	O	O
+餐	O	O
+厅	O	O
+、	O	O
+提	O	O
+供	O	O
+早	O	O
+餐	O	O
+服	O	O
+务	O	O
+的	O	O
+豪	B-Inform.酒店.酒店类型	O
+华	I-Inform.酒店.酒店类型	O
+型	I-Inform.酒店.酒店类型	O
+，	O	O
+有	O	O
+哪	O	O
+一	O	O
+家	O	O
+呢	O	O
+？	O	O
+好 的 。 天安门广场 周边 的 酒店 里 ， 我 想 找 一家 提供 中式 餐厅 、 提供 早餐 服务 的 豪华型 ， 有 哪 一家 呢 ？
+Inform	Request
+
+北	B-Inform.酒店.名称	I-Inform.酒店.名称
+京	I-Inform.酒店.名称	I-Inform.酒店.名称
+天	I-Inform.酒店.名称	I-Inform.酒店.名称
+伦	I-Inform.酒店.名称	I-Inform.酒店.名称
+王	I-Inform.酒店.名称	I-Inform.酒店.名称
+朝	I-Inform.酒店.名称	I-Inform.酒店.名称
+酒	I-Inform.酒店.名称	I-Inform.酒店.名称
+店	I-Inform.酒店.名称	I-Inform.酒店.名称
+电	O	O
+话	O	O
+是	O	O
+多	O	O
+少	O	O
+，	O	O
+我	O	O
+订	O	O
+个	O	O
+房	O	O
+，	O	O
+周	O	O
+边	O	O
+有	O	O
+什	O	O
+么	O	O
+餐	O	O
+馆	O	O
+吗	O	O
+？	O	O
+顺	O	O
+便	O	O
+吃	O	O
+个	O	O
+饭	O	O
+。	O	O
+北京 天伦 王朝 酒店 电话 是 多少 ， 我订 个 房 ， 周边 有 什么 餐馆 吗 ？ 顺便 吃个 饭 。
+Request	Request
+
+我	O	O
+有	O	O
+个	O	O
+亲	O	O
+戚	O	O
+来	O	O
+北	O	O
+京	O	O
+，	O	O
+想	O	O
+找	O	O
+一	O	O
+家	O	O
+评	O	O
+分	O	O
+是	O	O
+4	B-Inform.酒店.评分	O
+.	I-Inform.酒店.评分	O
+5	I-Inform.酒店.评分	O
+分	I-Inform.酒店.评分	I-Inform.酒店.评分
+以	I-Inform.酒店.评分	I-Inform.酒店.评分
+上	I-Inform.酒店.评分	O
+酒	O	O
+店	O	O
+，	O	O
+给	O	O
+我	O	O
+推	O	O
+荐	O	O
+一	O	O
+家	O	O
+就	O	O
+行	O	O
+，	O	O
+把	O	O
+地	O	O
+址	O	O
+和	O	O
+周	O	O
+边	O	O
+景	O	O
+点	O	O
+提	O	O
+供	O	O
+给	O	O
+我	O	O
+。	O	O
+我 有 个 亲戚 来 北京 ， 想 找 一家 评分 是 4.5 分 以上 酒店 ， 给 我 推荐 一家 就行 ， 把 地址 和 周边 景点 提供 给 我 。
+Request	Request
+
+好	O	O
+的	O	O
+。	O	O
+麻	O	O
+烦	O	O
+您	O	O
+帮	O	O
+我	O	O
+叫	O	O
+一	O	O
+辆	O	O
+出	O	O
+租	O	O
+车	O	O
+，	O	O
+从	O	O
+北	B-Inform.出租.出发地	O
+京	I-Inform.出租.出发地	I-Inform.酒店.名称
+天	I-Inform.出租.出发地	I-Inform.酒店.名称
+伦	I-Inform.出租.出发地	I-Inform.酒店.名称
+王	I-Inform.出租.出发地	I-Inform.酒店.名称
+朝	I-Inform.出租.出发地	I-Inform.酒店.名称
+酒	I-Inform.出租.出发地	I-Inform.酒店.名称
+店	I-Inform.出租.出发地	I-Inform.酒店.名称
+到	O	O
+北	B-Inform.出租.目的地	I-Inform.酒店.名称
+京	I-Inform.出租.目的地	I-Inform.酒店.名称
+京	I-Inform.出租.目的地	I-Inform.酒店.名称
+仪	I-Inform.出租.目的地	I-Inform.酒店.名称
+大	I-Inform.出租.目的地	I-Inform.酒店.名称
+酒	I-Inform.出租.目的地	I-Inform.酒店.名称
+店	I-Inform.出租.目的地	I-Inform.酒店.名称
+，	O	O
+然	O	O
+后	O	O
+告	O	O
+诉	O	O
+我	O	O
+车	O	O
+型	O	O
+、	O	O
+车	O	O
+牌	O	O
+。	O	O
+好 的 。 麻烦 您 帮 我 叫 一辆 出租车 ， 从 北京 天伦 王朝 酒店 到 北京 京仪 大酒店 ， 然后 告诉 我 车型 、 车牌 。
+Request	Request
+
+北	B-Inform.酒店.名称	I-Inform.酒店.名称
+京	I-Inform.酒店.名称	I-Inform.酒店.名称
+京	I-Inform.酒店.名称	I-Inform.酒店.名称
+仪	I-Inform.酒店.名称	I-Inform.酒店.名称
+大	I-Inform.酒店.名称	I-Inform.酒店.名称
+酒	I-Inform.酒店.名称	I-Inform.酒店.名称
+店	I-Inform.酒店.名称	I-Inform.酒店.名称
+周	O	O
+边	O	O
+的	O	O
+景	O	O
+点	O	O
+有	O	O
+票	O	O
+价	O	O
+是	O	O
+20	B-Inform.景点.门票	O
+-	I-Inform.景点.门票	I-Inform.餐馆.人均消费
+50	I-Inform.景点.门票	I-Inform.餐馆.人均消费
+元	I-Inform.景点.门票	I-Inform.餐馆.人均消费
+的	O	O
+，	O	O
+评	O	O
+分	O	O
+是	O	O
+4	B-Inform.景点.评分	O
+.	I-Inform.景点.评分	O
+5	I-Inform.景点.评分	O
+分	I-Inform.景点.评分	O
+以	I-Inform.景点.评分	O
+上	I-Inform.景点.评分	O
+的	O	O
+景	O	O
+点	O	O
+没	O	O
+？	O	O
+北京 京仪 大酒店 周边 的 景点 有 票价 是 20- 50 元的 ， 评 分 是4 . 5分以 上 的景 点 没？
+Request	Request
+
+中	B-Inform.景点.名称	I-Inform.景点.名称
+国	I-Inform.景点.名称	I-Inform.景点.名称
+古	I-Inform.景点.名称	I-Inform.景点.名称
+动	I-Inform.景点.名称	I-Inform.景点.名称
+物	I-Inform.景点.名称	I-Inform.景点.名称
+馆	I-Inform.景点.名称	I-Inform.景点.名称
+能	O	O
+玩	O	O
+多	O	O
+长	O	O
+时	O	O
+间	O	O
+，	O	O
+电	O	O
+话	O	O
+是	O	O
+多	O	O
+少	O	O
+？	O	O
+中国 古 动物 馆能 玩 多长时间 ， 电话 是 多少 ？
+Request	Request
+
+谢	O	O
+谢	O	O
+！	O	O
+没	O	O
+有	O	O
+问	O	O
+题	O	O
+了	O	O
+，	O	O
+再	O	O
+见	O	O
+！	O	O
+谢谢 ！ 没有 问题 了 ， 再见 ！
+General	General
+
+不	O	O
+客	O	O
+气	O	O
+！	O	O
+祝	O	O
+您	O	O
+生	O	O
+活	O	O
+愉	O	O
+快	O	O
+！	O	O
+再	O	O
+见	O	O
+！	O	O
+不 客气 ！ 祝您 生活 愉快 ！ 再见 ！
+General	General
+
+你	O	O
+好	O	O
+，	O	O
+可	O	O
+以	O	O
+帮	O	O
+我	O	O
+找	O	O
+一	O	O
+个	O	O
+票	O	O
+价	O	O
+100	B-Inform.景点.门票	O
+-	I-Inform.景点.门票	O
+150	I-Inform.景点.门票	I-Inform.餐馆.人均消费
+元	I-Inform.景点.门票	I-Inform.餐馆.人均消费
+，	O	O
+游	O	O
+玩	O	O
+时	O	O
+长	O	O
+是	O	O
+1	B-Inform.景点.游玩时间	O
+小	I-Inform.景点.游玩时间	O
+时	I-Inform.景点.游玩时间	O
+的	O	O
+景	O	O
+点	O	O
+吗	O	O
+？	O	O
+你好 ， 可以 帮 我 找 一个 票价 100-150 元 ，游玩 时 长 是1 小时 的 景 点吗 ？
+Request	Request
+
+我	O	O
+打	O	O
+算	O	O
+去	O	O
+世	B-Inform.景点.名称	O
+界	I-Inform.景点.名称	I-Inform.景点.名称
+公	I-Inform.景点.名称	I-Inform.景点.名称
+园	I-Inform.景点.名称	I-Inform.景点.名称
+美	I-Inform.景点.名称	I-Inform.景点.名称
+洲	I-Inform.景点.名称	I-Inform.景点.名称
+区	I-Inform.景点.名称	I-Inform.景点.名称
+，	O	O
+你	O	O
+知	O	O
+道	O	O
+这	O	O
+个	O	O
+景	O	O
+点	O	O
+的	O	O
+评	O	O
+分	O	O
+是	O	O
+多	O	O
+少	O	O
+吗	O	O
+？	O	O
+我 打算 去 世界 公园 美洲 区 ， 你 知道 这个 景点 的 评分 是 多少 吗 ？
+Request	Request
+
+没	O	O
+关	O	O
+系	O	O
+，	O	O
+景	O	O
+点	O	O
+周	O	O
+边	O	O
+餐	O	O
+馆	O	O
+都	O	O
+有	O	O
+什	O	O
+么	O	O
+？	O	O
+没关系 ， 景点 周边 餐馆 都 有 什么 ？
+Request	Request
+
+好	O	O
+的	O	O
+，	O	O
+我	O	O
+饿	O	O
+了	O	O
+，	O	O
+想	O	O
+去	O	O
+名	O	O
+叫	O	O
+庆	B-Inform.餐馆.名称	O
+丰	I-Inform.餐馆.名称	O
+包	I-Inform.餐馆.名称	I-Inform.餐馆.名称
+子	I-Inform.餐馆.名称	I-Inform.餐馆.名称
+铺	I-Inform.餐馆.名称	I-Inform.餐馆.名称
+(	I-Inform.餐馆.名称	I-Inform.餐馆.名称
+前	I-Inform.餐馆.名称	I-Inform.餐馆.名称
+门	I-Inform.餐馆.名称	I-Inform.餐馆.名称
+店	I-Inform.餐馆.名称	I-Inform.餐馆.名称
+)	I-Inform.餐馆.名称	I-Inform.餐馆.名称
+的	O	O
+餐	O	O
+馆	O	O
+用	O	O
+餐	O	O
+，	O	O
+你	O	O
+知	O	O
+道	O	O
+这	O	O
+个	O	O
+餐	O	O
+馆	O	O
+的	O	O
+营	O	O
+业	O	O
+时	O	O
+间	O	O
+吗	O	O
+？	O	O
+好 的 ， 我 饿 了 ， 想 去 名叫 庆丰 包子铺 ( 前 门店 ) 的 餐馆 用餐 ， 你 知道 这个 餐馆 的 营业时间 吗 ？
+Request	Request
+
+这	O	O
+个	O	O
+吃	O	O
+饭	O	O
+时	O	O
+间	O	O
+很	O	O
+充	O	O
+裕	O	O
+啊	O	O
+，	O	O
+麻	O	O
+烦	O	O
+你	O	O
+把	O	O
+它	O	O
+家	O	O
+电	O	O
+话	O	O
+给	O	O
+我	O	O
+发	O	O
+一	O	O
+下	O	O
+好	O	O
+吗	O	O
+？	O	O
+这个 吃饭时间 很 充裕 啊 ， 麻烦 你 把 它 家 电话 给我发 一下 好 吗 ？
+Request	Request
+
+我	O	O
+想	O	O
+呼	O	O
+叫	O	O
+从	O	O
+世	B-Inform.出租.出发地	O
+界	I-Inform.出租.出发地	O
+公	I-Inform.出租.出发地	O
+园	I-Inform.出租.出发地	O
+美	I-Inform.出租.出发地	O
+洲	I-Inform.出租.出发地	O
+区	I-Inform.出租.出发地	O
+到	O	O
+庆	B-Inform.出租.目的地	I-Inform.餐馆.名称
+丰	I-Inform.出租.目的地	I-Inform.餐馆.名称
+包	I-Inform.出租.目的地	I-Inform.餐馆.名称
+子	I-Inform.出租.目的地	I-Inform.餐馆.名称
+铺	I-Inform.出租.目的地	I-Inform.餐馆.名称
+(	I-Inform.出租.目的地	I-Inform.餐馆.名称
+前	I-Inform.出租.目的地	I-Inform.餐馆.名称
+门	I-Inform.出租.目的地	I-Inform.餐馆.名称
+店	I-Inform.出租.目的地	I-Inform.餐馆.名称
+)	I-Inform.出租.目的地	I-Inform.餐馆.名称
+的	O	O
+出	O	O
+租	O	O
+车	O	O
+，	O	O
+能	O	O
+帮	O	O
+我	O	O
+查	O	O
+一	O	O
+下	O	O
+这	O	O
+个	O	O
+出	O	O
+租	O	O
+的	O	O
+车	O	O
+型	O	O
+和	O	O
+车	O	O
+牌	O	O
+吗	O	O
+？	O	O
+我 想 呼叫 从 世界 公园 美洲 区到 庆丰 包子铺 ( 前 门店 ) 的 出租车 ， 能帮 我查 一下 这个 出租 的 车型 和 车牌 吗 ？
+Request	Request
+
+哦	O	O
+了	O	O
+，	O	O
+记	O	O
+下	O	O
+了	O	O
+，	O	O
+晚	O	O
+上	O	O
+能	O	O
+帮	O	O
+我	O	O
+找	O	O
+一	O	O
+个	O	O
+提	O	O
+供	O	O
+公	O	O
+共	O	O
+区	O	O
+域	O	O
+提	O	O
+供	O	O
+wifi	O	O
+的	O	O
+酒	O	O
+店	O	O
+吗	O	O
+？	O	O
+哦 了 ， 记下 了 ， 晚上 能 帮 我 找 一个 提供 公共 区域 提供 wifi的酒店 吗 ？
+Inform	Request
+
+就	O	O
+去	O	O
+北	B-Inform.酒店.名称	I-Inform.酒店.名称
+京	I-Inform.酒店.名称	I-Inform.酒店.名称
+万	I-Inform.酒店.名称	I-Inform.酒店.名称
+商	I-Inform.酒店.名称	I-Inform.酒店.名称
+花	I-Inform.酒店.名称	I-Inform.酒店.名称
+园	I-Inform.酒店.名称	I-Inform.酒店.名称
+美	I-Inform.酒店.名称	I-Inform.酒店.名称
+居	I-Inform.酒店.名称	I-Inform.酒店.名称
+酒	I-Inform.酒店.名称	I-Inform.酒店.名称
+店	I-Inform.酒店.名称	I-Inform.酒店.名称
+好	O	O
+了	O	O
+，	O	O
+你	O	O
+知	O	O
+道	O	O
+这	O	O
+家	O	O
+酒	O	O
+店	O	O
+周	O	O
+边	O	O
+都	O	O
+有	O	O
+啥	O	O
+好	O	O
+玩	O	O
+的	O	O
+景	O	O
+点	O	O
+吗	O	O
+？	O	O
+就 去 北京 万商 花园 美居 酒店 好 了 ， 你 知道 这家 酒店 周边 都 有 啥 好玩 的 景点 吗 ？
+Request	Request
+
+好	O	O
+的	O	O
+，	O	O
+这	O	O
+家	O	O
+酒	O	O
+店	O	O
+价	O	O
+格	O	O
+是	O	O
+多	O	O
+少	O	O
+呢	O	O
+？	O	O
+好 的 ， 这家 酒店 价格 是 多少 呢 ？
+Request	Request
+
